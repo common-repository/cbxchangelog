@@ -1,0 +1,30 @@
+#adminmenu .wp-menu-open#menu-posts-cbxchangelog a.menu-top {
+  background: #6648fe !important;
+  color: #fff !important;
+}
+
+#menu-posts-cbxchangelog .wp-submenu li.current,
+#menu-posts-cbxchangelog .wp-submenu li.current:hover {
+  background: #765baf !important;
+  color: #fff !important;
+  font-weight: bold !important;
+}
+
+#menu-posts-cbxchangelog .wp-submenu li:hover {
+  background: #A796CA !important;
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+#menu-posts-cbxchangelog .wp-submenu li a:focus,
+#menu-posts-cbxchangelog .wp-submenu li a:hover {
+  color: #fff !important;
+}
+
+#adminmenu #menu-posts-cbxchangelog .wp-menu-image{
+  height: 34px;
+  img{
+    padding:5px 0 0 0 !important;
+    vertical-align: middle;
+  }
+}

@@ -1,0 +1,355 @@
+@import "chota/chota";
+
+#cbxchangelog_metabox {
+	background: #00204a !important;
+	color: #fff !important;
+
+	&.cbxchangelog_metabox_dokan{
+		padding: 10px;
+		//margin-top: 15px;
+
+		fieldset{
+			border:0 none !important;
+			input{
+				vertical-align: middle;
+			}
+		}
+	}
+
+	.cbx-chota {
+		input:not([type="checkbox"]):not([type="radio"]):not([type="submit"]):not([type="color"]):not([type="button"]):not([type="reset"]),
+		select,
+		textarea,
+		textarea[type="text"] {
+			width: auto;
+			display: inline-block;
+			background-color: #fff;
+
+		}
+	}
+
+	label {
+		color: #fff !important;
+	}
+
+	h2 {
+		color: #fff !important;
+	}
+
+	.cbxchangelog_clear {
+		clear: both;
+	}
+
+	.cbxchangelog-edit-wrapper {
+		#cbxchangelog_toolbar {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			margin-bottom: 20px;
+			margin-top: 20px;
+			gap: 10px;
+
+			.show_label_wrap {
+				float: left;
+				display: inline-block;
+			}
+
+			label {
+				font-weight: 500;
+
+				select {
+					margin-left: 5px;
+				}
+			}
+
+			.show_date_wrap {
+				float: left;
+				display: inline-block;
+				margin: 0 20px;
+			}
+
+			.relative_date_wrap {
+				float: left;
+				display: inline-block;
+				margin: 0 20px 0 0;
+			}
+
+			.layout_wrap {
+				float: left;
+				display: inline-block;
+				margin: 0 20px 0 0;
+			}
+		}
+		//end changelog toolbar
+	}
+
+	.cbxchangelog_add_release {
+		margin-bottom: 20px;
+
+		color: #fff !important;
+		//border-color: #27ae60 !important;
+		//background: #27ae60 !important;
+		//border-color: var(--color-success) !important;
+		//background: var(--color-success) !important;
+
+		border-color: #6648fe !important;
+		background: #6648fe !important;
+
+
+		//box-shadow: 0 1px 0 #cccccc;
+		//float: right;
+		//display: inline;
+	}
+
+	#cbxchangelog_wrapper {
+		input {
+			font-size: 12px;
+			line-height: 16px;
+
+			&::placeholder {
+				color: #a1a1a1 !important
+			}
+		}
+
+		.cbxchangelog_release {
+			margin-bottom: 15px;
+			margin-top: 2px;
+			padding: 15px 25px;
+			//background: #3498db;
+			background: #005792;
+			border-radius: 10px;
+
+			&.ui-sortable-helper {
+				background: #014572 !important;
+				min-height: 320px !important;
+			}
+
+			.release-toolbar {
+				display: flex;
+				flex-wrap: wrap;
+
+				.cbx-icon {
+					margin-right: 10px;
+
+					&:last-child {
+						margin-right: 0;
+					}
+				}
+
+				.cbxchangelog_input_version {
+					margin-right: 10px;
+				}
+
+				.release-toolbar-left {
+					margin-right: auto;
+					display: flex;
+					align-items: center;
+				}
+
+				.release-toolbar-right {
+					margin-left: auto;
+					display: flex;
+					align-items: center;
+
+					/* .cbx-icon{
+					   margin-right: 10px;
+					   &:last-child{
+						 margin-right: 0;
+					   }
+					 }*/
+				}
+
+				.release_no {
+					color: #fff;
+					margin-right: 10px;
+				}
+
+				.move-release {
+					color: #fff;
+					margin-top: 0;
+					font-size: 15px;
+				}
+
+				.trash-release {
+					//color: #fff;
+					//font-size: 15px;
+					//float: right;
+					//display: inline-block;
+					//margin-top: 5px;
+					//margin-right: 20px;
+				}
+			}
+
+			//end release-toolbar
+			.release-content {
+				padding-top: 10px;
+				border-top: 1px solid rgba(255,255,255,0.04);
+				margin-top: 10px;
+			}
+
+			.release-label {
+				color: #fff;
+			}
+
+
+			/*.handlebtntgl{
+				float: right;
+				display: inline-block;
+			}
+
+			.handlediv{
+				margin-top: -7px;
+				color: #fff;
+			}*/
+
+
+			//inputs
+			.cbxchangelog_input_note {
+				clear: both;
+				width: 100% !important;
+				border: 0;
+				padding: 5px 10px;
+
+				input.large-text, textarea.large-text {
+					width: 100% !important;
+					font-size: 14px !important;
+
+					&::placeholder {
+						color: #a1a1a1 !important
+					}
+				}
+
+				textarea {
+					width: 100%;
+				}
+			}
+
+			.cbxchangelog_input_url {
+				clear: both;
+				width: 100%;
+				height: 40px;
+				border: 0;
+				padding: 10px;
+				font-size: 14px;
+
+				&::placeholder {
+					color: #a1a1a1 !important
+				}
+			}
+
+			.release-note {
+				.release-note-markdown {
+					color: #fff;
+					margin: -5px 0 10px 0 !important;
+					//text-align: right;
+				}
+			}
+
+			.feature {
+				margin-bottom: 5px;
+				margin-top: 0;
+				padding: 4px;
+				background: #fff;
+				border: 1px solid #fff;
+				border-radius: 5px;
+			}
+
+			.feature_placeholder {
+				border: 1px dashed orangered;
+				margin-bottom: 5px;
+				margin-top: 0;
+				padding: 2px;
+				min-height: 25px;
+			}
+
+			.release-feature-wrap {
+				background: transparent;
+
+				.feature {
+					.trash-feature, .move-feature, .add-feature {
+						float: right;
+						display: inline-block;
+						font-size: 15px;
+						margin-left: 5px;
+						margin-top: 8px;
+					}
+				}
+			}
+		}
+
+		//end  .cbxchangelog_release
+
+		.cbxchangelog_release_placeholder {
+			border: 1px dashed #3498db;
+			min-height: 30px;
+			background: #fff;
+			margin-bottom: 15px;
+			margin-top: 2px;
+		}
+	}
+
+
+	/*#cbxchangelog_wrapper .cbxchangelog_release.closed .release-feature-wrap,
+	#cbxchangelog_wrapper .cbxchangelog_release.closed .release-note,
+	#cbxchangelog_wrapper .cbxchangelog_release.ui-sortable-helper .release-feature-wrap{
+		display: none;
+	}
+
+	#cbxchangelog_wrapper .cbxchangelog_release .handlediv .toggle-indicator:before{
+		color: #fff;
+	}
+
+	#cbxchangelog_wrapper .cbxchangelog_release .handlebtntgl .toggle-indicator:before{
+		color: #fff;
+	}
+	#cbxchangelog_wrapper .cbxchangelog_release.closed .toggle-indicator:before {
+		content: "\f140";
+	}*/
+
+	#cbxchangelog_wrapper .cbxchangelog_release.ui-sortable-helper {
+		max-height: 29px !important;
+		height: 29px !important;
+	}
+
+	/*#cbxchangelog_wrapper .cbxchangelog_release .release-feature-wrap{
+		background: transparent;
+	}*/
+
+	/*#cbxchangelog_wrapper .cbxchangelog_release .feature .trash-feature,
+	#cbxchangelog_wrapper .cbxchangelog_release .feature .move-feature,
+	#cbxchangelog_wrapper .cbxchangelog_release .feature .add-feature {
+	  float: right;
+	  display: inline-block;
+	  font-size: 15px;
+	  margin-left: 5px;
+	  margin-top: 6px;
+	}*/
+
+
+}
+
+
+/*
+ # Export Import Style
+========================== */
+.wp-core-ui .cbxchangelog-export-import-wrap {
+	display: flex;
+	justify-content: space-between;
+
+	a {
+		background-color: #6648fe;
+		border-color: #6648fe;
+		color: #fff;
+		border-radius: 5px;
+		text-decoration: none;
+		font-size: 14px;
+		font-weight: 600;
+		display: inline-block;
+
+		&:hover {
+			background-color: #5138d1;;
+			border-color: #5138d1;
+		}
+	}
+}
+

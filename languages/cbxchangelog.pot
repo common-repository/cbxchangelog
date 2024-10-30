@@ -1,0 +1,1039 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-21 17:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-cbxchangelog-helper.php:255
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#. %s template
+#: includes/cbxchangelog-tpl-loader.php:69
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:431
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:120
+#: includes/class-cbxchangelog-settings.php:793
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:119
+msgid "Add New Changelog"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:61
+#: templates/admin/metabox_changelogs.php:84
+#: templates/admin/metabox_changelogs.php:241
+msgid "Add new feature"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:176
+msgid "Add New Release"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:31
+msgid "Added"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:398
+msgid "Append change logs"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:399
+msgid ""
+"Append change logs for changelog post type. If you disable this then you "
+"have to use the shortcode method to display change log information inside "
+"changelog post type's content"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:568
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:690
+msgid "Are you sure to remove all steps?"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:689
+msgid "Are you sure to remove this step?"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:567
+#: admin/class-cbxchangelog-admin.php:693
+msgid "Are you sure?"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:191
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:127
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:93
+msgid "Asc"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:975
+msgid "Ascending Order"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:601
+#: admin/class-cbxchangelog-admin.php:718
+msgid "Attention"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1019
+msgid "Block Settings"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:40
+#: templates/admin/metabox_changelogs.php:213
+msgid "Brief release note(Supports markdown syntax, if enabled in settings)"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:84
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:585
+#: admin/class-cbxchangelog-admin.php:606
+#: admin/class-cbxchangelog-admin.php:702
+#: admin/class-cbxchangelog-admin.php:723
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:590
+#: admin/class-cbxchangelog-admin.php:707
+msgid "cancel and close"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:918
+msgid "CBX Blocks"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-cbxchangelog-admin.php:1015
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:27
+msgid "CBX Changelog"
+msgstr ""
+
+#: templates/admin/support.php:197
+msgid "CBX Changelog Plugin Details"
+msgstr ""
+
+#: cbxchangelog.php:82
+msgid "CBX Changelog plugin requires PHP 7.4 or higher!"
+msgstr ""
+
+#: cbxchangelog.php:77
+msgid "CBX Changelog plugin requires WordPress 3.5 or higher!"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:890
+#, php-format
+msgid ""
+"CBX Changelog Pro has extended features and more controls, <a style=\"color: "
+"#6648fe !important; font-weight: bold;\" target=\"_blank\" href=\"%s\">try "
+"it</a>  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:159
+msgid "CBX Changelog Settings"
+msgstr ""
+
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:28
+#: widgets/classic-widgets/cbxchangelog-widget/cbxchangelog-widget.php:48
+msgid "CBX Changelog Widget"
+msgstr ""
+
+#: templates/admin/support.php:21
+msgid "CBX Changelog: Support & Docs"
+msgstr ""
+
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:31
+msgid "CBX Widgets"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:38
+msgid "CBXChangelog Widget"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:80
+msgid "CBXChangelog Widget Setting"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1022
+msgid "Change Log ID"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:199
+msgid "Change Logs"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:129
+#: admin/class-cbxchangelog-admin.php:130
+msgid "Changelog"
+msgstr ""
+
+#: templates/admin/support.php:97
+msgid "Changelog Core Plugin"
+msgstr ""
+
+#: widgets/classic-widgets/cbxchangelog-widget/cbxchangelog-widget.php:85
+#: widgets/classic-widgets/cbxchangelog-widget/cbxchangelog-widget.php:169
+msgid "Changelog Display"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:86
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:38
+msgid "Changelog ID"
+msgstr ""
+
+#: widgets/classic-widgets/cbxchangelog-widget/cbxchangelog-widget.php:118
+msgid "Changelog id missing or changelog doesn't exists"
+msgstr ""
+
+#: templates/admin/support.php:131
+msgid "Changelog Pro Addon"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1203
+msgid "Changelog reset setting html loaded successfully"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1227
+msgid "Changelog setting reset scheduled successfully"
+msgstr ""
+
+#: templates/admin/settings.php:31
+msgid "Changelog: Global Settings"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:115
+#: admin/class-cbxchangelog-admin.php:117
+msgid "Changelogs"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:845
+#: admin/class-cbxchangelog-admin.php:863
+#, php-format
+msgid ""
+"Check <a style=\"color: #6648fe !important; font-weight: bold;\" href=\"%s\" "
+"target=\"_blank\">Documentation</a> | Create <a style=\"color: #6648fe !"
+"important; font-weight: bold;\" href=\"%s\" target=\"_blank\">Changelog</a>"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:485
+msgid "Check All"
+msgstr ""
+
+#: includes/class-cbxchangelog-settings.php:681
+msgid "Choose Color"
+msgstr ""
+
+#: includes/class-cbxchangelog-settings.php:651
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:65
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:108
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:122
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:136
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:150
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:58
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:70
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:82
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:95
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:32
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:41
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:51
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:60
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:69
+msgid "Choose from post meta"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1028
+#: includes/class-cbxchangelog-helper.php:390
+#: templates/admin/metabox_changelogs.php:148
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:164
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:104
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:66
+msgid "Choose layout"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:51
+msgid "Classic Plain"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:586
+#: admin/class-cbxchangelog-admin.php:703
+msgid "Clear"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:591
+#: admin/class-cbxchangelog-admin.php:708
+msgid "clear and close"
+msgstr ""
+
+#: templates/admin/metabox_shortcode.php:23
+msgid "Click to clipboard"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:427
+#: admin/class-cbxchangelog-admin.php:575
+#: admin/class-cbxchangelog-admin.php:686
+#: templates/admin/metabox_shortcode.php:25
+msgid "Click to copy"
+msgstr ""
+
+#: includes/class-cbxchangelog-settings.php:250
+msgid "Click to show hide"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/support.php:279
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-cbxchangelog-public.php:434
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:592
+#: admin/class-cbxchangelog-admin.php:709
+msgid "color input field"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:580
+#: admin/class-cbxchangelog-admin.php:697
+msgid "color picker dialog"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:593
+#: admin/class-cbxchangelog-admin.php:710
+msgid "color selection area"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:582
+#: admin/class-cbxchangelog-admin.php:699
+msgid "color swatch"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:37
+msgid "Compatibility"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:604
+#: admin/class-cbxchangelog-admin.php:721
+msgid "Confirmation"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:574
+#: admin/class-cbxchangelog-admin.php:685
+msgid "Copied"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:576
+#: admin/class-cbxchangelog-admin.php:687
+msgid "Copied to clipboard"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:573
+#: admin/class-cbxchangelog-admin.php:684
+msgid "Copy"
+msgstr ""
+
+#: templates/admin/support.php:225
+msgid "Core Plugin Support"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:986
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:178
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:116
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:85
+msgid "Date"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:981
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:177
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:115
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:84
+msgid "Default"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:60
+#: templates/admin/metabox_changelogs.php:83
+#: templates/admin/metabox_changelogs.php:240
+msgid "Delete Feature"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:431
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:33
+#: templates/admin/metabox_changelogs.php:206
+msgid "Delete Release"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:36
+msgid "Deprecated"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:190
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:126
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:92
+msgid "Desc"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:970
+msgid "Descending Order"
+msgstr ""
+
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:23
+msgid "Display Specific Release's Changelog"
+msgstr ""
+
+#: widgets/classic-widgets/cbxchangelog-widget/cbxchangelog-widget.php:51
+msgid "Displays CBX Changelog widget"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:784
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/support.php:207
+msgid "Documentation & User Guide"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy change log manager for wordpress, use for any product post type or "
+"releases notes"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:121
+msgid "Edit Changelog"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:602
+#: admin/class-cbxchangelog-admin.php:719
+msgid "Error"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:44
+#: templates/admin/metabox_changelogs.php:217
+msgid "External url"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:32
+msgid "Fixed"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:483
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"WordPress core option table"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:782
+msgid "Free Support"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:298
+msgid "General"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:328
+msgid "General Settings"
+msgstr ""
+
+#: templates/admin/support.php:39
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: templates/admin/support.php:27
+msgid "Global Settings"
+msgstr ""
+
+#: templates/admin/support.php:186
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:164
+msgid "Helps & Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://codeboxr.com/product/cbx-changelog-for-wordpress/"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:594
+#: admin/class-cbxchangelog-admin.php:711
+msgid "hue selection slider"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:335
+msgid ""
+"If selected, then markdown will be parsed while displaying release note or "
+"any single feature"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:34
+msgid "Improved"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:599
+#: admin/class-cbxchangelog-admin.php:716
+msgid "Info"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1021
+msgid "Leave empty to hide"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:603
+#: admin/class-cbxchangelog-admin.php:720
+msgid "Loading"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:321
+msgid "Loading ..."
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:334
+msgid "Markdown Support"
+msgstr ""
+
+#: public/class-cbxchangelog-public.php:301
+msgid "More details about this release"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:46
+#: templates/admin/metabox_changelogs.php:219
+msgid "New Features/Changes"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:692
+#: includes/class-cbxchangelog-helper.php:340
+#: includes/class-cbxchangelog-helper.php:351
+#: includes/class-cbxchangelog-helper.php:362
+#: includes/class-cbxchangelog-helper.php:373
+#: includes/class-cbxchangelog-helper.php:384
+#: includes/class-cbxchangelog-helper.php:404
+#: includes/class-cbxchangelog-helper.php:435
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:110
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:124
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:138
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:152
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:60
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:72
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:84
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:97
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:34
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:43
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:53
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:62
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:124
+msgid "Not found"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:125
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:570
+msgid "Oh! No"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:605
+#: admin/class-cbxchangelog-admin.php:722
+msgid "OK"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:430
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:694
+msgid "Once you delete, it's gone forever. You can not revert it back."
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:491
+#: includes/class-cbxchangelog-helper.php:512
+msgid "Option ID"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:490
+#: includes/class-cbxchangelog-helper.php:511
+msgid "Option Name"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1030
+#: templates/admin/metabox_changelogs.php:168
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:187
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:123
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:89
+msgid "Order"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1032
+#: templates/admin/metabox_changelogs.php:161
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:174
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:112
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:81
+msgid "Order By"
+msgstr ""
+
+#: templates/admin/support.php:242
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:116
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:624
+msgid "Please check the captcha."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:614
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:613
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:611
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:615
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:612
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:620
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:621
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:623
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:622
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:619
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:618
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:616
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:617
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:610
+msgid "Please fix this field."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:680
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:113
+msgctxt "Post Type General Name"
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:114
+msgctxt "Post Type Singular Name"
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:50
+msgid "Prepros(Default)"
+msgstr ""
+
+#: templates/admin/support.php:235
+msgid "Pro Addon Support"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:378
+msgid "Relative date"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:96
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:48
+msgid "Release"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:30
+#: templates/admin/metabox_changelogs.php:203
+msgid "Release Date"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1023
+msgid "Release ID"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1047
+msgid "Release logs"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:39
+#: templates/admin/metabox_changelogs.php:212
+msgid "Release Note(Supports markdown syntax, if enabled in settings)"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:42
+#: templates/admin/metabox_changelogs.php:215
+msgid "Release Url"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:35
+msgid "Removed"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:677
+msgid "Request failed, please reload the page."
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:441
+msgid "Reset all data"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:442
+msgid "Reset Data"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:442
+msgid "Reset option values and all tables created by this plugin"
+msgstr ""
+
+#: templates/admin/support.php:215
+msgid "Review & Rate CBX Bookmark Plugin"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:783
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:584
+#: admin/class-cbxchangelog-admin.php:701
+msgid "Save"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:589
+#: admin/class-cbxchangelog-admin.php:706
+msgid "save and close"
+msgstr ""
+
+#: includes/class-cbxchangelog-settings.php:1043
+#: templates/admin/settings.php:38
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:123
+msgid "Search Changelog"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:682
+msgid "Search here"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:595
+#: admin/class-cbxchangelog-admin.php:712
+msgid "selection slider"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:89
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:232
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:41
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:17
+msgid "Set Post ID(Change log post type or other supported)"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:159
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:757
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:200
+#: admin/class-cbxchangelog-admin.php:408
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1025
+#: templates/admin/metabox_changelogs.php:128
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:38
+msgid "Show Date"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:133
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:79
+msgid "Show date"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1024
+#: templates/admin/metabox_changelogs.php:121
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:55
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:29
+msgid "Show Label"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:105
+msgid "Show label"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1027
+msgid "Show Relative Date"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:134
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:147
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:92
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:48
+msgid "Show Relative date"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:356
+msgid "Show Release Date"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:357
+msgid "Show release date in frontend"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:346
+msgid ""
+"Show release item labels (example: added, fixed, deleted etc) while "
+"displaying in frontend"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:345
+msgid "Show Release Labels"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:367
+msgid "Show Release url"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:368
+msgid "Show release url in frontend"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1026
+#: templates/admin/metabox_changelogs.php:140
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:119
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:67
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:57
+msgid "Show Url"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:34
+#: templates/admin/metabox_changelogs.php:207
+msgid "Show/hide"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:379
+msgid "Show/Hide Relative date "
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1207
+#: admin/class-cbxchangelog-admin.php:1232
+msgid "Sorry, you don't have enough permission"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:59
+#: templates/admin/metabox_changelogs.php:82
+#: templates/admin/metabox_changelogs.php:239
+msgid "Sort Features"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:27
+#: templates/admin/metabox_changelogs.php:200
+msgid "Sort Releases"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:600
+#: admin/class-cbxchangelog-admin.php:717
+msgid "Success"
+msgstr ""
+
+#: templates/admin/settings.php:37
+msgid "Support & Docs"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:569
+msgid "Sure"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:842
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Changelog</strong> V%s - "
+"Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:860
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Changelog</strong> V%s , enjoy the new "
+"features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: templates/admin/support.php:69
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:609
+msgid "This field is required."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:571
+msgid ""
+"This only feature can not be deleted. Either edit or delete the total "
+"release."
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:598
+#: admin/class-cbxchangelog-admin.php:715
+msgid "Tip"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:1020
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:11
+msgid "Title"
+msgstr ""
+
+#: includes/class-cbxchangelog-settings.php:1015
+msgid "Toggle All Sections"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:581
+#: admin/class-cbxchangelog-admin.php:698
+msgid "toggle color picker dialog"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:302
+msgid "Tools"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:424
+msgid "Tools Settings"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:790
+msgid "Try Pro Addon"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:485
+msgid "Uncheck All"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:122
+msgid "Update Changelog"
+msgstr ""
+
+#: includes/class-cbxchangelog-helper.php:33
+msgid "Updated"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:583
+#: admin/class-cbxchangelog-admin.php:700
+msgid "use previous color"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:29
+#: templates/admin/metabox_changelogs.php:202
+msgid "Version"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:118
+msgid "View Changelog"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:757
+msgid "View settings"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:681
+msgid "Window Title"
+msgstr ""
+
+#: templates/admin/metabox_changelogs.php:49
+#: templates/admin/metabox_changelogs.php:72
+#: templates/admin/metabox_changelogs.php:229
+msgid "Write a new feature for this release"
+msgstr ""
+
+#: admin/class-cbxchangelog-admin.php:691
+#: includes/class-cbxchangelog-helper.php:339
+#: includes/class-cbxchangelog-helper.php:350
+#: includes/class-cbxchangelog-helper.php:361
+#: includes/class-cbxchangelog-helper.php:372
+#: includes/class-cbxchangelog-helper.php:383
+#: includes/class-cbxchangelog-helper.php:403
+#: includes/class-cbxchangelog-helper.php:434
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:109
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:123
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:137
+#: widgets/elementor-elements/class-cbxchangelog-elemwidget.php:151
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:59
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:71
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:83
+#: widgets/vc-element/class-cbxchangelog-wpbwidget.php:96
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:33
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:42
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:52
+#: widgets/classic-widgets/cbxchangelog-widget/views/admin.php:61
+msgid "Yes"
+msgstr ""
